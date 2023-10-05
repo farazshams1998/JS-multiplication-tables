@@ -8,4 +8,4 @@ function table() {
         document.write(res +"<br>")
     }
 }
-table(4);
+table();
